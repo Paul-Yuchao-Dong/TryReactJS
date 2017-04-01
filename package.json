@@ -1,0 +1,22 @@
+{
+  "name": "try_react_js",
+  "version": "1.0.0",
+  "description": "try webpack and react JS",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Paul-Yuchao-Dong/TryReactJS.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Paul-Yuchao-Dong/TryReactJS/issues"
+  },
+  "homepage": "https://github.com/Paul-Yuchao-Dong/TryReactJS#readme",
+  "dependencies": {
+    "webpack": "^2.3.2"
+  }
+}
